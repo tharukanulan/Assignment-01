@@ -1,0 +1,93 @@
+      body {
+            
+            background-color: #f0f2f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .logo{
+            width: 300px;
+            padding: 100px;
+
+        }
+        .logo h2{
+            width: 500px;
+            text-align:justify;
+        }
+
+        .form {
+
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+            width: 400px;
+            max-width: 80%;
+            text-align: center;
+            margin-left: auto;
+            margin-right: 30px;
+            
+        }
+
+        . h2 {
+            margin-bottom: 20px;
+        }
+
+        .input-group {
+            margin-bottom: 20px;
+        }
+
+        .input-group input {
+            width: 100%;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+       
+
+        .login-btn {
+            width: 100%;
+            padding: 15px;
+            font-size: 18px;
+            font-weight: 600;
+            border: none;
+            border-radius: 5px;
+            background-color: #1877F2;
+            color: #fff;
+            cursor: pointer;
+        }
+
+        .login-btn:hover {
+            background-color: #145993;
+        }
+
+        .forgotten-pw{
+            margin-top: 20px;
+            font-size: 14px;
+            
+            color: #1877F2;
+            text-decoration: none;
+        }
+
+        .forgotten-pw:hover {
+            text-decoration: underline;
+        }
+        .create-btn {
+            width: 60%;
+            padding: 12px;
+            font-size: 18px;
+            border-radius: 5px;
+            background-color:#38A822;
+            color: #fff;
+            cursor: pointer;
+            border: none;
+        }
+        .create-btn:hover {
+            background-color: #38A822;
+        }
+
+        
